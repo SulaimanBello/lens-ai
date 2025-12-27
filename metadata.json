@@ -1,0 +1,5 @@
+{
+  "name": "Lens AI - Web Summarizer",
+  "description": "An intelligent web summarizer powered by Gemini 3.0 Pro with Google Search grounding. Instantly generate comprehensive summaries for any website or topic.",
+  "requestFramePermissions": []
+}
